@@ -9,4 +9,5 @@ This repository contains a fine-tuned variant of `distilbert-base-uncased` for e
 
 ## Usage
 
-To use the pre-trained model in your Python script or Jupyter Notebook, you can follow the [emotion_classification_demo.ipynb](https://github.com/alikhalajii/ale-dp-distilbert-base-uncased-finetuned-emotion/blob/master/emotion_classification_demo.ipynb){:target="_blank"}
+To use the pre-trained model in your Python script or Jupyter Notebook, you can follow the 
+[emotion_classification_demo.ipynb](https://github.com/alikhalajii/ale-dp-distilbert-base-uncased-finetuned-emotion/blob/master/emotion_classification_demo.ipynb){:target="_blank" rel="noopener"}
